@@ -1,0 +1,1 @@
+SELECT name, age from person where gender='female' AND address='Kazan'
